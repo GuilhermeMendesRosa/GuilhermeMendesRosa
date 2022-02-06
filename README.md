@@ -1,3 +1,7 @@
-### Hi there 👋
+### Bem vindo ao meu GitHub 👋
 
-🎇Student of Systems Analysis and Development at UDESC. Currently studying web development with technologies such as HTML, CSS and JavaScript
+💡Aluno de  Análise e Desenvolvimento de Sistemas na UDESC. Estudando atualmente desenvolvimento web com tecnologias como HTML, CSS e JavaScript.
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermemendesrosa&layout=compact&langs_count=7&theme=github_dark"/>
+</div>
