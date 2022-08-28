@@ -1,6 +1,6 @@
 ### Bem vindo ao meu GitHub 👋
 
-💡Aluno de  Análise e Desenvolvimento de Sistemas na UDESC. Estudando atualmente desenvolvimento web com tecnologias como HTML, CSS e JavaScript.
+<h3>💡Aluno de  Análise e Desenvolvimento de Sistemas na UDESC. Estudando atualmente desenvolvimento web com tecnologias como HTML, CSS e JavaScript.</h3>
 
 <hr>
 
