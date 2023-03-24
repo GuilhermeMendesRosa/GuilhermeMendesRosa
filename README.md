@@ -2,6 +2,15 @@
 <h4>💡Backend and Mobile Developer at @EstacionamentoDigital</h3>
 <h4>💡Graduating in Systems Analysis and Development at the State University of Santa Catarina (UDESC)</h3>
 
+<hr>
+
+<div align="center">
+
+  <a href="https://github.com/santiagocardoso">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=guilhermemendesrosa&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermemendesrosa&layout=compact&langs_count=7&theme=tokyonight"/>
+  
+</div>
 
 <hr>
 
