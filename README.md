@@ -2,9 +2,9 @@
 <p align="center">
     <img src="https://kushalvyas.github.io/images/mkz.gif" width="300" alt="">
 </p>
-<h4 align="center">💡Software engineer at @totvs</h4>
-<h4 align="center">💡Graduating in Systems Analysis and Development at the State University of Santa Catarina (UDESC)
-</h4>
+<h3 align="center">🚀Software engineer at @totvs</h3>
+<h3 align="center">💻Graduating in Systems Analysis and Development at the State University of Santa Catarina (UDESC)
+</h3>
 <div align="center">
     <a href="https://github.com/guilhermemendesrosa">
         <img height="150em"
@@ -13,7 +13,7 @@
             src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermemendesrosa&layout=compact&langs_count=7&theme=tokyonight" />
     </a>
 </div>
-<h3 align="center">Languages and Tools:</h3>
+<h2 align="center">Languages and Tools:</h2>
 <p align="center">
     <a href="https://www.java.com">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java"
@@ -50,10 +50,12 @@
             alt="MySQL" width="40" height="40" />
     </a>
     <a href="https://www.linux.org/">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux
-</a>
-  <a href=" https://www.cprogramming.com/">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux"
+            width="40" height="40" />
+    </a>
+    <a href="https://www.cprogramming.com/">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40"
             height="40" />
     </a>
+
 </p>
