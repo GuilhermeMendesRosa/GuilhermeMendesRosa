@@ -5,12 +5,6 @@
 <h3 align="center">🚀Software developer at @totvs</h3>
 <h3 align="center">💻Graduating in Systems Analysis and Development at the State University of Santa Catarina (UDESC)
 </h3>
-<div align="center">
-    <a href="https://github.com/guilhermemendesrosa">
-        <img height="150em"
-            src="https://github-readme-stats.vercel.app/api?username=guilhermemendesrosa&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-    </a>
-</div>
 <h2 align="center">Languages and Tools:</h2>
 <p align="center">
     <a href="https://www.java.com">
