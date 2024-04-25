@@ -14,12 +14,12 @@
     <a href="https://spring.io/">
         <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="Spring" width="40" height="40" />
     </a>
+    <a href="https://angular.io">
+        <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="Angular" width="40" height="40" />
+    </a>
     <a href="https://developer.android.com">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg"
             alt="Android" width="40" height="40" />
-    </a>
-    <a href="https://angular.io">
-        <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="Angular" width="40" height="40" />
     </a>
     <a href="https://www.w3.org/html/">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
