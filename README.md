@@ -2,7 +2,7 @@
 <p align="center">
     <img src="https://kushalvyas.github.io/images/mkz.gif" width="300" alt="">
 </p>
-<h3 align="center">🚀Software developer at @totvs</h3>
+<h3 align="center">🚀Software developer at @TOTVS</h3>
 <h3 align="center">💻Graduate in Systems Analysis and Development at the Santa Catarina State University (UDESC)</h3>
 <h3 align="center">🎓Master's student in Applied Computing at the Santa Catarina State University (UDESC)</h3>
 <h2 align="center">Languages and Tools:</h2>
